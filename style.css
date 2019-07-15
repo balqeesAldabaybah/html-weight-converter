@@ -1,0 +1,47 @@
+html{
+    border: solid thick crimson;
+    margin: 1em
+}
+body{
+    background-color:lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 1em;
+    align-content: center
+}
+
+.header{
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    background-color: black;
+    color: white;
+    padding: 1.5em;
+    text-align: center
+}
+
+form{
+    background-color: lightseagreen;
+    padding: 1.5em;
+}
+
+input{
+    width: 50%;
+}
+
+.footer{
+    background-color: blueviolet;
+     width: 100%;
+    padding: 5px;
+    height: 40px;
+    color: white;
+    text-align: center;
+}
+
+.r{
+    height: 70px;
+    width:30%;
+    background-color :crimson;
+    border-radius: 5px;
+    color:white;
+    margin: 5px;
+    text-align: center
+}
